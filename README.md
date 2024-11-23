@@ -5,7 +5,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Equipments Required:
 1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
+2. Anaconda – Python 3.7 Installation / Jupyter notebook.
 
 ## Algorithm
 1. Gather a labeled dataset containing both spam and non-spam emails, with labels typically as 0 (non-spam) and 1 (spam)
@@ -66,15 +66,16 @@ accuracy
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/169fec4a-a86b-4504-9b3d-e7b2738b168b)
-
-![image](https://github.com/user-attachments/assets/2b903aa2-7226-42c2-afae-03b12ebcbc65)
-
-![image](https://github.com/user-attachments/assets/5d6c9720-b536-496b-9d8d-8c201dab4002)
-
-![image](https://github.com/user-attachments/assets/d6994dbd-4c5f-4df5-8845-99a68656b101)
-
-![image](https://github.com/user-attachments/assets/dba52b05-04e6-4fd6-b7d9-c965d651cece)
+## head
+![image](https://github.com/user-attachments/assets/d03a5251-c089-4134-8600-da9f4bfeb387)
+## info
+![image](https://github.com/user-attachments/assets/7d3c63fb-9cb2-4f1c-b5e5-e3654c5d52be)
+## tail
+![image](https://github.com/user-attachments/assets/fac01c0b-2895-4724-b663-c424822e1512)
+## predicted value
+![image](https://github.com/user-attachments/assets/7a25dac4-d201-4127-8b23-ef46456ca483)
+## accuracy
+![image](https://github.com/user-attachments/assets/64a669c7-3516-4ea1-b624-70b64440cf2b)
 
 
 ## Result:
